@@ -1,3 +1,3 @@
 <?php
-echo "Hello world"
+echo "trevor ngugi is the best"
 ?>
